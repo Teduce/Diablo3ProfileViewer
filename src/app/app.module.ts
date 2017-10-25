@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { CharacterComponent} from './Character/character.component';
 import { ProfileComponent } from './profile/profile.component';
 import { ItemsComponent } from './items/items.component';
-import { ProfileService } from './Profile/profile.service';
+import { ProfileService } from './profile/profile.service';
 import { ItemsService } from './items/items.service';
 import { CharacterService } from './Character/character.service';
 
