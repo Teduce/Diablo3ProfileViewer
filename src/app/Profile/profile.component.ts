@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import {JsonConvert, OperationMode, ValueCheckingMode} from 'json2typescript';
 import { ProfileService } from './profile.service';
 import {Profile} from './profile';
 import {Hero} from './profile';
@@ -18,18 +17,7 @@ export class ProfileComponent implements OnInit {
   ) { }
 
   ngOnInit() {
-     const jsonConvert: JsonConvert = new JsonConvert();
-        jsonConvert.operationMode = OperationMode.LOGGING; // print some debug data
-        jsonConvert.ignorePrimitiveChecks = false; // don't allow assigning number to string etc.
-        jsonConvert.valueCheckingMode = ValueCheckingMode.DISALLOW_NULL; // never allow null
-
-
    this.profileService.getProfile().subscribe(test =>{
-        try {
-        this.profiledata = jsonConvert.deserialize(test, Profile);
-        } catch (e) {
-            console.log((<Error>e));
-        }
-     });
+        this.profiledata = test; });
   }
 }
