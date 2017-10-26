@@ -1,0 +1,882 @@
+{
+  "battleTag" : "Teduce#1439",
+  "paragonLevel" : 642,
+  "paragonLevelHardcore" : 86,
+  "paragonLevelSeason" : 136,
+  "paragonLevelSeasonHardcore" : 0,
+  "guildName" : "",
+  "heroes" : [ {
+    "id" : 16470565,
+    "name" : "Teduce",
+    "class" : "barbarian",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 7124
+    },
+    "paragonLevel" : 86,
+    "hardcore" : true,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1429423732
+  }, {
+    "id" : 1345534,
+    "name" : "Teduce",
+    "class" : "barbarian",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 6659
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1481695683
+  }, {
+    "id" : 75744882,
+    "name" : "Galor",
+    "class" : "crusader",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 7567
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1470717451
+  }, {
+    "id" : 66074187,
+    "name" : "Tiki",
+    "class" : "witch-doctor",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 3867
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1462029025
+  }, {
+    "id" : 61283740,
+    "name" : "Voltair",
+    "class" : "wizard",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 2703
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1441307566
+  }, {
+    "id" : 72715752,
+    "name" : "Twitchy",
+    "class" : "demon-hunter",
+    "gender" : 1,
+    "level" : 70,
+    "kills" : {
+      "elites" : 2956
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1462540392
+  }, {
+    "id" : 79202512,
+    "name" : "Qualane",
+    "class" : "monk",
+    "gender" : 1,
+    "level" : 70,
+    "kills" : {
+      "elites" : 2268
+    },
+    "paragonLevel" : 642,
+    "hardcore" : false,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1481170078
+  }, {
+    "id" : 93659797,
+    "name" : "Igneus",
+    "class" : "necromancer",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 1639
+    },
+    "paragonLevel" : 136,
+    "hardcore" : false,
+    "seasonal" : true,
+    "dead" : false,
+    "last-updated" : 1503639998
+  }, {
+    "id" : 36229477,
+    "name" : "Boris",
+    "class" : "monk",
+    "gender" : 0,
+    "level" : 70,
+    "kills" : {
+      "elites" : 998
+    },
+    "paragonLevel" : 86,
+    "hardcore" : true,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1396737097
+  }, {
+    "id" : 45728419,
+    "name" : "Galor",
+    "class" : "crusader",
+    "gender" : 0,
+    "level" : 65,
+    "kills" : {
+      "elites" : 571
+    },
+    "paragonLevel" : 86,
+    "hardcore" : true,
+    "seasonal" : false,
+    "dead" : false,
+    "last-updated" : 1397955144
+  } ],
+  "lastHeroPlayed" : 93659797,
+  "lastUpdated" : 1503639998,
+  "kills" : {
+    "monsters" : 1466027,
+    "elites" : 64432,
+    "hardcoreMonsters" : 372374
+  },
+  "highestHardcoreLevel" : 70,
+  "timePlayed" : {
+    "barbarian" : 1.0,
+    "crusader" : 0.386,
+    "demon-hunter" : 0.211,
+    "monk" : 0.197,
+    "necromancer" : 0.108,
+    "witch-doctor" : 0.308,
+    "wizard" : 0.276
+  },
+  "progression" : {
+    "act1" : true,
+    "act2" : true,
+    "act3" : true,
+    "act4" : true,
+    "act5" : true
+  },
+  "fallenHeroes" : [ {
+    "death" : {
+      "killer" : 5432,
+      "time" : 1376960380,
+      "location" : 81715
+    },
+    "items" : {
+      "offHand" : {
+        "id" : "Shield_107",
+        "name" : "Juggernaut Root",
+        "icon" : "shield_107_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CmIIxLKCeBIHCAQV0Ac7bB1dVKRHHbbx7Bod7TrCNh2p0ZIDIgsIARWKQgMAGBAgHjAJOKQEQABQDGDiBGolCgwIABCSn4SfhICA4CgSFQjl8KKgARIHCAQV9p7YqzAJOABAARign9jDDVAEWAA"
+      },
+      "waist" : {
+        "id" : "Belt_105",
+        "name" : "Spined Cycle",
+        "icon" : "belt_105_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CjwI3ISG1AoSBwgEFXyjQtQdf62iUx2crKCYHTWar68d9x_tTyILCAAVzf4BABgcIAowDTikBEAAUAxgpAQYh_LquwVQBFgA"
+      },
+      "rightFinger" : {
+        "id" : "Ring_18",
+        "name" : "Bond Renegade",
+        "icon" : "ring_18_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/Cm0IxJ3WsAgSBwgEFRhVXUQd80Yz5h2GAmPqHRyonyUdziEa6h305FIqHX-tolMiCwgBFW9CAwAYIiAMMAk48gJAAFAQYJwDaiUKDAgAEP-dk7OEgIDAGhIVCJfiir8BEgcIBBX2ntirMAk4AEABGLDU6sUIUARYAA"
+      },
+      "leftFinger" : {
+        "id" : "Ring_16",
+        "name" : "Proud Ring of Agony",
+        "icon" : "ring_16_demonhunter_male",
+        "displayColor" : "blue",
+        "tooltipParams" : "item/CiUIv8OckgISBwgEFRZVXUQd2_JCoB3lrAcnMAk4uQNAAFAIYOsDGKzU6sUIUARYAA"
+      },
+      "neck" : {
+        "id" : "Amulet08",
+        "name" : "Proud Amulet of Agony",
+        "icon" : "amulet08_demonhunter_male",
+        "displayColor" : "blue",
+        "tooltipParams" : "item/CiUIoqHdpAgSBwgEFZDFRGQdvVKkRx2aPeYaMAk43ANAAFAIYJIEGKCWpsQMUARYAA"
+      },
+      "mainHand" : {
+        "id" : "Wand_205",
+        "name" : "Magic Pyre",
+        "icon" : "wand_205_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkEIyM__swYSBwgEFWD0SAUdvTBICB2JxBbvHcIZ5lQdzPzuyB0SbIXNIgsIARVzQgMAGAYgEjAJOJoCQABQDGC6AhjA0cdUUARYAA"
+      },
+      "torso" : {
+        "id" : "ChestArmor_104",
+        "name" : "Rift Bastion",
+        "icon" : "chestarmor_104_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CowBCLaVmusBEgcIBBXsHRlgHYkH0n8dtPHsGh2vU8M2HbrAteYiCwgAFcv-AQAYCCAiMAk44ARAAEgFUAxgpAVqJQoMCAAQuuiEpoGAgMAgEhUIpYrOtggSBwgEFbVdtnowCTgAQAFqJQoMCAAQ0OiEpoGAgMAgEhUItYOxvAcSBwgEFbVdtnowCTgAQAEY2PfIgQxQBFgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      },
+      "feet" : {
+        "id" : "Boots_103",
+        "name" : "Leap Gut",
+        "icon" : "boots_103_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkgIp7mHqQQSBwgEFVpBm38debPFch1MJ-gPHXb3SgcdOiPTuB2dMQAiHZysoJgiCwgBFYpCAwAYGCAgMAk4vQNAAEgFUBBg7wMYtIXa-Q9QBFgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      },
+      "hands" : {
+        "id" : "Gloves_103",
+        "name" : "Fist Lore",
+        "icon" : "gloves_103_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkgItrvWkwwSBwgEFYNXkqQdcdx52x1Iy2ytHZh4UmEd-VvTiR2gI7xIHfTkUioiCwgBFW9CAwAYGiAEMAk46wNAAEgFUBBgogQY-aHttgtQBFgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      },
+      "shoulders" : {
+        "id" : "Shoulders_103",
+        "name" : "Black Shoulders",
+        "icon" : "shoulders_103_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/Cj4I1pHw1AESBwgEFYz0yBUdTCfoDx2FNq7dHX81e4MdEe1-iCILCAAVx0QDABgeIBgwCTisBEAASAVQDGDqBBiY0sfcAlAEWAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      },
+      "legs" : {
+        "id" : "Pants_103",
+        "name" : "Giant Mail",
+        "icon" : "pants_103_wizard_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CpYBCI-Xx48CEgcIBBVZjtWlHTO0YH4d15dfpR0M0ZIIHTWar68dkr80ih2QKQ6IIgsIABXM_gEAGCIgGjAJOOMDQABIBVAQYJkEaiUKDAgAENXfsoCBgICAGxIVCML28c8KEgcIBBX2ntirMAk4AEABaiUKDAgAENzfsoCBgICAGxIVCJv5tJALEgcIBBX2ntirMAk4AEABGM3G06ILUARYAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      },
+      "bracers" : {
+        "id" : "Bracers_206",
+        "name" : "Glance Boon",
+        "icon" : "bracers_206_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CjwI1ILw8goSBwgEFdksyssdvDBICB32alBfHcnS82Ud0DTYiCILCAEVckIDABgOICAwCTjrAkAAUAxglAMYzcyuwwZQBFgA"
+      },
+      "head" : {
+        "id" : "WizardHat_103",
+        "name" : "Fissure Cover",
+        "icon" : "wizardhat_103_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CmQIu960RxIHCAQVQa2kaB2GAmPqHTCPHEUd3WH9HR1C81XFIgsIABXL_gEAGAQgCDAJOLsCQABIBVAMYN8CaiUKDAgAEMuhhJ-EgIDgKBIVCPel1cMLEgcIBBVJ9YtfMAk4AEABGIK1pYoNUARYAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_17",
+            "name" : "Royal Dye",
+            "icon" : "dye_17_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/royal-dye"
+          }
+        }
+      }
+    },
+    "kills" : {
+      "elites" : 991
+    },
+    "hardcore" : true,
+    "level" : 53,
+    "stats" : {
+      "life" : 0,
+      "damage" : 9119.24,
+      "toughness" : 0.0,
+      "healing" : 0.0,
+      "armor" : 0,
+      "strength" : 172,
+      "dexterity" : 197,
+      "vitality" : 1335,
+      "intelligence" : 1108,
+      "physicalResist" : 0,
+      "fireResist" : 110,
+      "coldResist" : 110,
+      "lightningResist" : 151,
+      "poisonResist" : 110,
+      "arcaneResist" : 131,
+      "damageReduction" : 0.0,
+      "damageIncrease" : 0.0,
+      "critChance" : 0.0
+    },
+    "name" : "Voltair",
+    "gender" : 0,
+    "class" : "wizard",
+    "heroId" : 9660883
+  }, {
+    "death" : {
+      "killer" : 123124,
+      "time" : 1378170122,
+      "location" : 121214
+    },
+    "items" : {
+      "offHand" : {
+        "id" : "Mojo_101",
+        "name" : "Curse Core",
+        "icon" : "mojo_101_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/Cm0In9mO0QcSBwgEFeZc2PcdDNGSCB0WpNPYHWelrxEdu1voSB07sszQHTjJlTgiCwgBFchEAwAYEiAAMAk44wFAAFAQYLMDaiUKDAgAEPGV8O6DgIDgMhIVCJDXw9oIEgcIBBW1XbZ6MAk4AEABGLOMvYIBUAZYAA"
+      },
+      "waist" : {
+        "id" : "Belt_101",
+        "name" : "Rugged Lash",
+        "icon" : "belt_101_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkYIyMmdgAwSBwgEFXijQtQdTCfoDx30mUcyHU7NaPgde9gvPh0uyp5pHeZ_q7giCwgAFc7-AQAYGiACMAk4rwJAAFAQYIgEGI_y6rsFUAZYAA"
+      },
+      "rightFinger" : {
+        "id" : "Ring_13",
+        "name" : "Proud Ring of Fortitude",
+        "icon" : "ring_13_demonhunter_male",
+        "displayColor" : "blue",
+        "tooltipParams" : "item/CiUI0LClmAkSBwgEFRNVXUQdQaZG4h30mUcyMAk4vAFAAFAIYIgDGKbU6sUIUAZYAA"
+      },
+      "leftFinger" : {
+        "id" : "Ring_12",
+        "name" : "Proud Ring of Carnage",
+        "icon" : "ring_12_demonhunter_male",
+        "displayColor" : "blue",
+        "tooltipParams" : "item/CiUI2q6a4A8SBwgEFRJVXUQdmHhSYR2ETo-1MAk44gFAAFAIYLIDGKTU6sUIUAZYAA"
+      },
+      "neck" : {
+        "id" : "Amulet06",
+        "name" : "Socketed Amulet of Fortitude",
+        "icon" : "amulet06_demonhunter_male",
+        "displayColor" : "blue",
+        "tooltipParams" : "item/CkwIl4y3pwcSBwgEFY7FRGQdC9GSCB07sszQMAk4uQJAAFAIYJMEaiUKDAgAENzb1byCgICACBIVCPq8qMANEgcIBBX2ntirMAk4AEABGJyWpsQMUAZYAA"
+      },
+      "mainHand" : {
+        "id" : "Dagger_206",
+        "name" : "Sergeant's Spine",
+        "icon" : "dagger_206_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CjwI_Lvc7g0SBwgEFYF-T7Id-zjSQB3Qw0esHeC0h_EdwDBICCILCAAVsf4BABgSIAQwCTjZA0AAUAxg9gQY_YWE2wlQBlgA"
+      },
+      "torso" : {
+        "id" : "ChestArmor_101",
+        "name" : "Stalwart Tunic",
+        "icon" : "chestarmor_101_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CowBCOOc1N0CEgcIBBXpHRlgHbTx7BodfbLM0B1MJ-gPHSUlWp4iCwgAFa3-AQAYFiAYMAk4rQJAAEgSUAxghQRqJQoMCAAQo8iZ6oSAgIAyEhUI2-nnuQgSBwgEFfae2KswCTgAQAFqJQoMCAAQxcnG7oaAgMA5EhUI6e6QqgYSBwgEFfae2KswCTgAQAEY0vfIgQxQBlgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_01",
+            "name" : "Tanner's Dye",
+            "icon" : "dye_01_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/tanners-dye"
+          }
+        }
+      },
+      "feet" : {
+        "id" : "Boots_102",
+        "name" : "Lost Justice",
+        "icon" : "boots_102_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/Cj4Ix-GTtwcSBwgEFVlBm38defdKBx30mUcyHafauewdTCfoDyILCAEVb0IDABgKIBowCTjaAkAASAFQDGC3BBiyhdr5D1AGWAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_20",
+            "name" : "Abyssal Dye",
+            "icon" : "dye_20_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/abyssal-dye"
+          }
+        }
+      },
+      "hands" : {
+        "id" : "Gloves_102",
+        "name" : "Scout's Grips",
+        "icon" : "gloves_102_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkgIyc_C4AoSBwgEFYJXkqQdJSVanh1pXHD9HQxc9PwdebPFch1KMsccHZeuLWYiCwgAFbH-AQAYHCAaMAk4_wNAAEgKUBBg8QQY-6HttgtQBlgA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_15",
+            "name" : "Mariner's Dye",
+            "icon" : "dye_15_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/mariners-dye"
+          }
+        }
+      },
+      "shoulders" : {
+        "id" : "Shoulders_103",
+        "name" : "Resolute Shoulders",
+        "icon" : "shoulders_103_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CkMItYuZ1g4SBwgEFYz0yBUdXBAnQh2PJv6rHRCRU2gdEoc-Vh305FIqIgsIABWt_gEAGAIgGDAJONgDQABICFAOYK0EGJjSx9wCUAZYAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_16",
+            "name" : "Golden Dye",
+            "icon" : "dye_16_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/golden-dye"
+          }
+        }
+      },
+      "legs" : {
+        "id" : "Pants_104",
+        "name" : "Attack Grasp",
+        "icon" : "pants_104_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CpEBCM-P8P4OEgcIBBVajtWlHSUlWp4dT5fAJB01mq-vHZysoJgdr1PDNiILCAEViEIDABgUIAAwCTjoBEAASApQDmC5BWolCgwIABCxoouGhYCA4DgSFQjq9MHEAxIHCAQV9p7YqzAJOABAAWolCgwIABDHtPrihYCAwCkSFQiYg96jCRIHCAQV9p7YqzAJOABAARjLxtOiC1AGWAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_15",
+            "name" : "Mariner's Dye",
+            "icon" : "dye_15_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/mariners-dye"
+          }
+        }
+      },
+      "bracers" : {
+        "id" : "Bracers_101",
+        "name" : "Enduring Boon",
+        "icon" : "bracers_101_demonhunter_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CjwInvywiAQSBwgEFZMoyssdTeCBmx1MJ-gPHeXWLt0dp3-HPSILCAAVrf4BABggIBgwCTisAUAAUAxg9gIY2d2uwwZQBlgA"
+      },
+      "head" : {
+        "id" : "Helm_104",
+        "name" : "The Root",
+        "icon" : "helm_104_witchdoctor_male",
+        "displayColor" : "yellow",
+        "tooltipParams" : "item/CmUI4oKokQoSBwgEFTr1Tl0dhgJj6h15s8VyHfSZRzId9ORSKiILCAEVikIDABgQICgwDTifBEAASAtQDGC4BWolCgwIABCpts3jhICA4BgSFQjgqtj_AxIHCAQVYvWLXzANOABAARj01PfUC1AGWAA",
+        "dyeColor" : {
+          "item" : {
+            "id" : "Dye_04",
+            "name" : "Aquatic Dye",
+            "icon" : "dye_04_demonhunter_male",
+            "displayColor" : "white",
+            "tooltipParams" : "item/aquatic-dye"
+          }
+        }
+      }
+    },
+    "kills" : {
+      "elites" : 811
+    },
+    "hardcore" : true,
+    "level" : 51,
+    "stats" : {
+      "life" : 0,
+      "damage" : 7801.15,
+      "toughness" : 0.0,
+      "healing" : 0.0,
+      "armor" : 0,
+      "strength" : 155,
+      "dexterity" : 267,
+      "vitality" : 1102,
+      "intelligence" : 838,
+      "physicalResist" : 0,
+      "fireResist" : 103,
+      "coldResist" : 140,
+      "lightningResist" : 83,
+      "poisonResist" : 83,
+      "arcaneResist" : 97,
+      "damageReduction" : 0.0,
+      "damageIncrease" : 0.0,
+      "critChance" : 0.0
+    },
+    "name" : "Igneus",
+    "gender" : 0,
+    "class" : "witch-doctor",
+    "heroId" : 35829482
+  } ],
+  "blacksmith" : {
+    "slug" : "blacksmith",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "jeweler" : {
+    "slug" : "jeweler",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "mystic" : {
+    "slug" : "mystic",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "blacksmithHardcore" : {
+    "slug" : "blacksmith",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "jewelerHardcore" : {
+    "slug" : "jeweler",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "mysticHardcore" : {
+    "slug" : "mystic",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "blacksmithSeason" : {
+    "slug" : "blacksmith",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "jewelerSeason" : {
+    "slug" : "jeweler",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "mysticSeason" : {
+    "slug" : "mystic",
+    "level" : 12,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "blacksmithSeasonHardcore" : {
+    "slug" : "blacksmith",
+    "level" : 0,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "jewelerSeasonHardcore" : {
+    "slug" : "jeweler",
+    "level" : 0,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "mysticSeasonHardcore" : {
+    "slug" : "mystic",
+    "level" : 0,
+    "stepCurrent" : 0,
+    "stepMax" : 1
+  },
+  "seasonalProfiles" : {
+    "season5" : {
+      "seasonId" : 5,
+      "paragonLevel" : 234,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 48677,
+        "elites" : 2912,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 1.0,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season6" : {
+      "seasonId" : 6,
+      "paragonLevel" : 612,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 117543,
+        "elites" : 7567,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 1.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season3" : {
+      "seasonId" : 3,
+      "paragonLevel" : 169,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 104125,
+        "elites" : 3142,
+        "hardcoreMonsters" : 10009
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 0.134,
+        "demon-hunter" : 0.026,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 1.0
+      },
+      "highestHardcoreLevel" : 38,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season4" : {
+      "seasonId" : 4,
+      "paragonLevel" : 274,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 96245,
+        "elites" : 3918,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.022,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 1.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season9" : {
+      "seasonId" : 9,
+      "paragonLevel" : 0,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 1869,
+        "elites" : 24,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 1.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season7" : {
+      "seasonId" : 7,
+      "paragonLevel" : 284,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 51939,
+        "elites" : 2268,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.0,
+        "monk" : 1.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season8" : {
+      "seasonId" : 8,
+      "paragonLevel" : 42,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 24835,
+        "elites" : 1182,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 1.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season11" : {
+      "seasonId" : 11,
+      "paragonLevel" : 136,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 43688,
+        "elites" : 1639,
+        "hardcoreMonsters" : 0
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 0.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.0,
+        "necromancer" : 1.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 0,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season1" : {
+      "seasonId" : 1,
+      "paragonLevel" : 0,
+      "paragonLevelHardcore" : 0,
+      "kills" : {
+        "monsters" : 6442,
+        "elites" : 331,
+        "hardcoreMonsters" : 6442
+      },
+      "timePlayed" : {
+        "barbarian" : 0.0,
+        "crusader" : 1.0,
+        "demon-hunter" : 0.0,
+        "monk" : 0.0,
+        "necromancer" : 0.0,
+        "witch-doctor" : 0.0,
+        "wizard" : 0.0
+      },
+      "highestHardcoreLevel" : 39,
+      "progression" : {
+        "act1" : false,
+        "act2" : false,
+        "act3" : false,
+        "act4" : false,
+        "act5" : false
+      }
+    },
+    "season0" : {
+      "seasonId" : 0,
+      "paragonLevel" : 642,
+      "paragonLevelHardcore" : 86,
+      "kills" : {
+        "monsters" : 970664,
+        "elites" : 41449,
+        "hardcoreMonsters" : 355923
+      },
+      "timePlayed" : {
+        "barbarian" : 1.0,
+        "crusader" : 0.205,
+        "demon-hunter" : 0.14,
+        "monk" : 0.137,
+        "necromancer" : 0.056,
+        "witch-doctor" : 0.188,
+        "wizard" : 0.187
+      },
+      "highestHardcoreLevel" : 70,
+      "progression" : {
+        "act1" : true,
+        "act2" : true,
+        "act3" : true,
+        "act4" : true,
+        "act5" : true
+      }
+    }
+  }
+}
