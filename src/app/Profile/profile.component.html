@@ -1,6 +1,6 @@
 <div *ngIf="profile">
    <h2> Profile: </h2>
-   <br>battleTag : {{profile.battleTag}}
+    battleTag : {{profile.battleTag}}
    <BR>paragonLevel: {{profile.paragonLevel}}
    <BR>paragonLevel Hardcore: {{profile.paragonLevelHardcore}}
    <BR>paragonLevel Season: {{profile.paragonLevelSeason}}
@@ -9,11 +9,53 @@
    <BR>Kills Monsters: {{profile.kills.monsters}}
    <BR>Kills Hardcore Monsters:  {{profile.kills.hardcoreMonsters}}
 
-  <h2>Heroes </h2>
-
+  <h2>Seasonal Heroes: </h2>
   <div *ngFor= "let hero of profile.heroes">
-   Name : {{hero.name}}
+     <div *ngIf="!hero.hardcore && !hero.dead && hero.seasonal">
+     <h3> {{hero.name}} </h3>
+      Id : {{hero.id}}
+     <br>Class : {{hero.class}}
+     <br>Level : {{hero.level}}
+     <br>Hardcore : {{hero.hardcore}}
+     <br>paragonLevel : {{hero.paragonLevel}}
+     <br>Gender : {{hero.gender}}
+     <br>Elites kills : {{hero.kills.elites}}
+     <br>last_updated : {{hero.last_updated}}
+     <br>
+     <br>
+     </div>
   </div>
-  
+
+  <h2>Heroes: </h2>
+  <div *ngFor= "let hero of profile.heroes">
+     <div *ngIf="!hero.hardcore && !hero.dead && !hero.seasonal">
+     <h3> {{hero.name}} </h3>
+      Id : {{hero.id}}
+     <br>Class : {{hero.class}}
+     <br>Level : {{hero.level}}
+     <br>paragonLevel : {{hero.paragonLevel}}
+     <br>Gender : {{hero.gender}}
+     <br>Elites kills : {{hero.kills.elites}}
+     <br>last_updated : {{hero.last_updated}}
+     <br>
+     <br>
+     </div>
+  </div>
+  <h2>Hardcore Heroes: </h2>
+  <div *ngFor= "let hero of profile.heroes">
+     <div *ngIf="hero.hardcore && !hero.dead && !hero.seasonal">
+     <h3> {{hero.name}} </h3>
+      Id : {{hero.id}}
+     <br>Class : {{hero.class}}
+     <br>Level : {{hero.level}}
+     <br>paragonLevel : {{hero.paragonLevel}}
+     <br>Gender : {{hero.gender}}
+     <br>Elites kills : {{hero.kills.elites}}
+     <br>seasonal : {{hero.seasonal}}
+     <br>last_updated : {{hero.last_updated}}
+     <br>
+     <br>
+     </div>
+  </div>
   
 </div>
