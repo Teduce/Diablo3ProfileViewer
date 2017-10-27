@@ -1,4 +1,19 @@
-<p>
-  this is the profile data
-{{profileData}}
-</p>
+<div *ngIf="profile">
+   <h2> Profile: </h2>
+   <br>battleTag : {{profile.battleTag}}
+   <BR>paragonLevel: {{profile.paragonLevel}}
+   <BR>paragonLevel Hardcore: {{profile.paragonLevelHardcore}}
+   <BR>paragonLevel Season: {{profile.paragonLevelSeason}}
+   <BR>paragonLevel Season Hardcore: {{profile.paragonLevelSeasonHardcore}}
+   <BR>Kills Elite: {{profile.kills.elites}}
+   <BR>Kills Monsters: {{profile.kills.monsters}}
+   <BR>Kills Hardcore Monsters:  {{profile.kills.hardcoreMonsters}}
+
+  <h2>Heroes </h2>
+
+  <div *ngFor= "let hero of profile.heroes">
+   Name : {{hero.name}}
+  </div>
+  
+  
+</div>

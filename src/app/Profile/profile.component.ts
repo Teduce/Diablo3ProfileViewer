@@ -10,7 +10,7 @@ import {Hero} from './profile';
 })
 export class ProfileComponent implements OnInit {
 
-  public profiledata: Profile;
+  public profile: Profile;
 
   constructor(
     private profileService: ProfileService
@@ -18,6 +18,6 @@ export class ProfileComponent implements OnInit {
 
   ngOnInit() {
    this.profileService.getProfile().subscribe(test =>{
-        this.profiledata = test; });
+        this.profile = test; });
   }
 }
